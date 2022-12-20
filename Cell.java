@@ -8,6 +8,4 @@ public class Cell {
         this.y = y;
         this.stav = stav;
     }
-
-
 }
